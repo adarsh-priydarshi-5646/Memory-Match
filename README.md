@@ -1,35 +1,35 @@
-🃏 Memory Match – A Fun & Engaging Card Matching Game
-🔗 Live Demo: https://memory-match-steel.vercel.app/
-Memory Match is a classic card-matching game designed to test and enhance memory skills. Built using TypeScript, Tailwind CSS, and Vite, this game offers a smooth and interactive experience.
+# 🃏 Memory Match – A Fun & Engaging Card Matching Game  
 
-📌 Features
-✅ Simple & Fun Gameplay – Match identical cards to win!
-✅ Responsive Design – Enjoy the game on any device.
-✅ Smooth Animations – Built with Tailwind CSS for a visually appealing experience.
-✅ Fast & Optimized – Powered by Vite for lightning-fast performance.
+🔗 **Live Demo:** [Memory Match](https://memory-match-steel.vercel.app/)  
 
-🛠 Tech Stack
-🔹 Frontend: TypeScript, JavaScript, HTML, CSS, Tailwind CSS
-🔹 Build Tool: Vite
-🔹 Deployment: Vercel
+Memory Match is a classic card-matching game designed to test and enhance memory skills. Built using **TypeScript, Tailwind CSS, and Vite**, this game offers a smooth and interactive experience.  
 
-🚀 Getting Started
-🔹 1. Clone the Repository
-sh
-Copy
-Edit
+## 📌 Features  
+✅ **Simple & Fun Gameplay** – Match identical cards to win!  
+✅ **Responsive Design** – Enjoy the game on any device.  
+✅ **Smooth Animations** – Built with Tailwind CSS for a visually appealing experience.  
+✅ **Fast & Optimized** – Powered by Vite for lightning-fast performance.  
+
+## 🛠 Tech Stack  
+🔹 **Frontend:** TypeScript, JavaScript, HTML, CSS, Tailwind CSS  
+🔹 **Build Tool:** Vite  
+🔹 **Deployment:** Vercel  
+
+## 🚀 Getting Started  
+
+### 1️⃣ Clone the Repository  
+```sh
 git clone https://github.com/adarsh-priydarshi-5646/Memory-Match.git
 cd Memory-Match
-🔹 2. Install Dependencies
-sh
-Copy
-Edit
+```
+2️⃣ Install Dependencies
+```sh
 npm install
-🔹 3. Run the Development Server
-sh
-Copy
-Edit
+```
+3️⃣ Run the Development Server
+```sh
 npm run dev
+```
 Now, open http://localhost:5173/ in your browser to play the game locally! 🎉
 
 🎮 How to Play
@@ -39,7 +39,7 @@ Now, open http://localhost:5173/ in your browser to play the game locally! 🎉
 4️⃣ Challenge yourself and improve your memory skills! 🧠
 
 📂 Project Structure
-bash
+```bash
 Copy
 Edit
 /Memory-Match
@@ -51,6 +51,7 @@ Edit
 │── tailwind.config.js # Tailwind CSS configuration
 │── tsconfig.json      # TypeScript configuration
 │── vite.config.ts     # Vite configuration
+```
 🤝 Contributing
 🔹 Fork the repository
 🔹 Create a new branch (git checkout -b feature-name)
